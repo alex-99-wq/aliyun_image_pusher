@@ -1,3 +1,4 @@
 neo4j:5.26.0-community
 portainer/agent:2.0.0
 bitnine/agviewer:latest
+langgenius/dify-web:latest
